@@ -14,7 +14,7 @@
 #           A comment is wrapped like this: <!-- your comment -->
 #           (In Part 2, a line starting with # becomes a heading.)
 # ===============================
-title: "Your Name"                 # FIXME
+title: "UF Water Institute Graduate Student"                 # FIXME
 subtitle: "PhD/MS Student, Your Department, University of Florida" # FIXME
 
 # ---- YOUR PHOTO ---
